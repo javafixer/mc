@@ -1,11 +1,4 @@
 {
-  "dependencies": {
-    "body-parser": "^2.2.0",
-    "express": "^5.1.0",
-    "minecraft-server-util": "^5.4.4",
-    "node-fetch": "^2.7.0"
-  }
-{
   "name": "express-vercel-deployment",
   "version": "1.0.0",
   "description": "",
@@ -17,6 +10,9 @@
   "author": "Arpan Neupane",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^5.1.0",
+    "body-parser": "^2.2.0",
+    "minecraft-server-util": "^5.4.4",
+    "node-fetch": "^2.7.0"
   }
 }
