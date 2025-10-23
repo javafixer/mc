@@ -6,3 +6,11 @@
     "node-fetch": "^2.7.0"
   }
 }
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo \"no build step\"",
+    "start": "node index.js"
+  }
+}
